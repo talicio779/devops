@@ -1,2 +1,2 @@
 # devops
-treinamento c
+treinamento c :earth_americas: :books:
